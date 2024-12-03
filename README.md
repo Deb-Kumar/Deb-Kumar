@@ -36,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deb-kumar&" alt="deb-kumar" /></p>
 
-[![](https://visitcount.itsvg.in/api?id=Deb-Kumar&label=Profile%20Views&pretty=true)]
+![](https://visitcount.itsvg.in/api?id=Deb-Kumar&label=Profile%20Views&pretty=true)
