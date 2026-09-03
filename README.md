@@ -6,15 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deb-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="deb-kumar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/debkumar_dev" target="blank"><img src="https://img.shields.io/twitter/follow/debkumar_dev?logo=twitter&style=for-the-badge" alt="debkumar_dev" /></a> </p>
-
-- 🔭 I’m currently working on **Fully Customizable E-Commerce Website**
-
-- 🌱 I’m currently learning **Next JS, Express JS, MongoDB**
-
-- 👯 I’m looking to collaborate on **E-Commerce Website**
-
-- 💬 Ask me about **React JS, Node JS, Java Script, Python, Java**
-
 - 📫 How to reach me **debkumarpayra32@gmail.com**
 
 - ⚡ Fun fact **I am a Travelling Lover.**
