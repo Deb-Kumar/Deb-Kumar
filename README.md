@@ -22,19 +22,6 @@ I design and ship complete, production-quality software — from web backends an
 
 ---
 
-### 🛠️ Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **EduGuardian AI** | Cross-platform academic assistant with a shared backend, desktop, and Android client | FastAPI · PySide6 · Flutter |
-| **Face Recognition Attendance System** | Real-time attendance tracking using live face recognition | Flask · MongoDB · React |
-| **Hospital Connected System** | Consolidated, multi-version hospital management codebase | Full-stack |
-| **PowerGrid Electricity Billing System** | Electricity billing web app with an accompanying academic report | PHP · MySQL |
-
-*(Add repo links here once your repos are public — happy to help wire these up!)*
-
----
-
 ### 💻 Tech Stack
 
 **Languages**
@@ -49,7 +36,7 @@ I design and ship complete, production-quality software — from web backends an
 
 **Frontend**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=node.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
