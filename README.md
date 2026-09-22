@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Dev%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cross-Platform%20App%20Builder%20%7C%20India&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20There,%20I'm%20Dev%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20India&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/Deb-Kumar">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+%26+cross-platform+systems;FastAPI+%2B+React+%2B+Flutter+%2B+PySide6;Turning+ideas+into+production-ready+apps;Always+shipping,+always+learning;&font=Fira+Code&center=true&width=600&height=45&color=2575fc&vCenter=true&size=22" />
