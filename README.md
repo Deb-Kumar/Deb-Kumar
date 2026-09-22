@@ -45,32 +45,12 @@ reach_me: "debkumarpayra32@gmail.com"
 
 <br/>
 
-## 📊 GitHub Stats
+📊 GitHub Stats
+<!-- NOTE: These cards call the public demo instance of github-readme-stats / github-readme-activity-graph, which shares a 5,000 req/hr GitHub API quota across every user of the free service and can intermittently rate-limit (images go blank when that happens — it's not a markdown/URL error). For a card that never breaks, deploy your own free instance and swap the domain below: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance --> <div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=deb-kumar&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=00000000" alt="Dev Kumar's GitHub stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=deb-kumar&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=deb-kumar&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=deb-kumar&theme=react-dark&hide_border=true&bg_color=00000000" width="95%" alt="activity graph"/> </div> <br/> <details> <summary>🐍 Contribution Snake (click to expand)</summary> <br/> <div align="center"> <img src="https://raw.githubusercontent.com/Deb-Kumar/Deb-Kumar/output/github-contribution-grid-snake.svg" alt="snake animation" /> </div>
 
-<div align="center">
+Set up automatically via the Platane/snk GitHub Action — ask if you'd like this wired up in your repo.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=deb-kumar&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=00000000" alt="Dev Kumar's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=deb-kumar&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deb-kumar&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deb-kumar&theme=react-dark&hide_border=true&bg_color=00000000" width="95%" alt="activity graph"/>
-
-</div>
-
-<br/>
-
-<details>
-<summary>🐍 Contribution Snake (click to expand)</summary>
-<br/>
-<div align="center">
-<img src="https://raw.githubusercontent.com/Deb-Kumar/Deb-Kumar/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-> Set up automatically via the [Platane/snk](https://github.com/Platane/snk) GitHub Action — ask if you'd like this wired up in your repo.
-</details>
-
-<br/>
+</details> <br/>
 
 ## 🌐 Connect with Me
 
